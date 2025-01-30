@@ -1,6 +1,6 @@
 # Bohmian Mechanics and the Measurement Problem  
 
-![Research Poster](Mayer Group Research Poster.jpeg)
+![Research Program](https://github.com/CarinSamer/Bohemian-Mechanics-and-the-Measurement-Problem/blob/9a420d30aea88762111c0856149ced4fab03bf4a/Mayer%20Group%20Research%20Poster.jpeg)
 
 ## 📖 About This Project  
 This research paper was developed as part of the **"Introduction to Quantum Research for Girls"** program—a **9-week initiative** offered by [PhysicsBeyond](https://physicsbeyond.com/) and [Girls in Quantum](https://www.girlsinquantum.com/).  
